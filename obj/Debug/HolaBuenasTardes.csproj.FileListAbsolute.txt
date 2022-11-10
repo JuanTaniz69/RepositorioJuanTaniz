@@ -1,0 +1,8 @@
+C:\Users\salazarfranco\source\repos\HolaBuenasTardes\HolaBuenasTardes\bin\Debug\HolaBuenasTardes.exe.config
+C:\Users\salazarfranco\source\repos\HolaBuenasTardes\HolaBuenasTardes\bin\Debug\HolaBuenasTardes.exe
+C:\Users\salazarfranco\source\repos\HolaBuenasTardes\HolaBuenasTardes\bin\Debug\HolaBuenasTardes.pdb
+C:\Users\salazarfranco\source\repos\HolaBuenasTardes\HolaBuenasTardes\obj\Debug\HolaBuenasTardes.csproj.AssemblyReference.cache
+C:\Users\salazarfranco\source\repos\HolaBuenasTardes\HolaBuenasTardes\obj\Debug\HolaBuenasTardes.csproj.SuggestedBindingRedirects.cache
+C:\Users\salazarfranco\source\repos\HolaBuenasTardes\HolaBuenasTardes\obj\Debug\HolaBuenasTardes.csproj.CoreCompileInputs.cache
+C:\Users\salazarfranco\source\repos\HolaBuenasTardes\HolaBuenasTardes\obj\Debug\HolaBuenasTardes.exe
+C:\Users\salazarfranco\source\repos\HolaBuenasTardes\HolaBuenasTardes\obj\Debug\HolaBuenasTardes.pdb
